@@ -55,7 +55,11 @@ To view or use this project locally, follow these simple steps:
 
 You can view a live demo of the login page here:
 
-[Link to your GitHub Pages demo]
+https://ganeshbabujr.github.io/Modern_Login/
+
+## Credentials
+Username : user
+Password : password123
 *(If you host it on GitHub Pages, add the link here. Otherwise, you can remove this section or state that a demo is not currently available).*
 
 Alternatively, check out the screenshot below:
