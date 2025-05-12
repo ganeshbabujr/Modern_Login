@@ -1,6 +1,6 @@
 # Modern Login Page (HTML, CSS, JavaScript)
 
-![Project Screenshot](src/screenshot.jpg)
+![Project Screenshot](src/screenshot.png)
 
 ## Project Description
 
