@@ -81,7 +81,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-* [Your Name or GitHub Username] - [Link to your GitHub Profile (Optional)]
+* (https://github.com/ganeshbabujr/Modern_Login)
 
 ## Acknowledgements
 
